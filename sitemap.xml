@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/investigacion/2024/01/31/Para-investigar-mas.html</loc>
+<lastmod>2024-01-31T15:34:40-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/gmail/thunderbird/recursos/2024/02/02/Como-usar-GSUITE-con-Thunderbird.html</loc>
+<lastmod>2024-02-02T15:34:40-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll/update/2024/10/16/welcome-to-jekyll.html</loc>
+<lastmod>2024-10-16T15:34:40-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/aboutme.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
